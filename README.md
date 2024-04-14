@@ -6,3 +6,6 @@ OR
 You can simulate whatever weather you want in-game
 
 You can try the apps here : https://drive.google.com/file/d/1BVbi9oJ2NB1RHZwPlB_jMJSA8KNBi7Z2/view?usp=sharing
+
+Video preview :
+[![Watch the video](https://img.youtube.com/vi/2k76CNTXVqs/maxresdefault.jpg)](https://www.youtube.com/watch?v=2k76CNTXVqs)
